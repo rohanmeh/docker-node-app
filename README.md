@@ -1,7 +1,7 @@
 # docker-node-app
 (very) Simple Node/Express web application with Docker
 
-Replace "rohanmeh/test" with your Docker Hub username and DockerHub repository name.
+Replace "rohanmeh/test" with your Docker Hub username and Docker Hub repository name.
 
 Build docker image: "npm run-script build"
 
