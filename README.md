@@ -1,5 +1,5 @@
 # docker-node-app
-Testing Node/Express web application with Docker
+(very) Simple Node/Express web application with Docker
 
 Useful links:
 
